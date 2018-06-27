@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.datas{
+  width: 300px;
+  margin: 100px auto;
+  background: #4286f4;
+  text-align: center;
+}
